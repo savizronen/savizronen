@@ -32,8 +32,6 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savizronen)
-  
 </td><td valign="top" width="33%">
 
 <div align="center">  
