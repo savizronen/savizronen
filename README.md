@@ -6,7 +6,7 @@
 - 👀 I’m interested in Software development programming on C#, Java, Python, JavaScript and C  
   
 
-- ☘️ I'm currently Bachelor's degree in Computer Science  
+- 🎓 I'm currently Bachelor's degree in Computer Science  
   
 
 - 📫 Reach me on savizronen@gmail.com or [LinkedIn](https://github.com/savizronen)  
