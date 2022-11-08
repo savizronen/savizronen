@@ -75,12 +75,12 @@
 
 
 ## Github Stats  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=savizronen&&style=flat-square" align="center" />
-</div>  
 <div align="center">  
 <img src="https://github-readme-stats.vercel.app/api?username=savizronen&show_icons=true&count_private=true&hide_border=true" />  
 </div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=savizronen&&style=flat-square" align="center" />
+</div>  
 <br/>  
 
 
