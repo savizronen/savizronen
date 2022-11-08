@@ -3,7 +3,7 @@
 <br/>  
   
 
-- 👀 I’m interested in Software development programming on C#, Java, Python, JavaScript and C  
+- 👀 I’m interested in software development programming on C#, Java, Python, JavaScript and C  
   
 
 - 🎓 I’m a Computer Science B.Sc graduate.  
