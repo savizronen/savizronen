@@ -75,10 +75,10 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=savizronen&show_icons=true&count_private=true&hide_border=true" align="center" />  
-
+<div align="center">  
+<img src="https://github-readme-stats.vercel.app/api?username=savizronen&show_icons=true&count_private=true&hide_border=true" />  
 ![Profile views counter](https://komarev.com/ghpvc/?username=savizronen&&style=flat-square)  
-  
+ </div>
 
 <br/>  
 
