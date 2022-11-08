@@ -14,8 +14,7 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
   
-
-<br/>  
+ 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
