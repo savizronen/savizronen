@@ -4,13 +4,13 @@
   
 
 - 👀 I’m interested in software development programming on C#, Java, Python, JavaScript and C  
-  
-
-- ⚡ Fun fact: I use tabs over spaces 
 
 
 - 🎓 I’m a Computer Science B.Sc graduate
-  
+
+
+- ⚡ Fun fact: I use tabs over spaces 
+
 
 - 📫 Reach me on savizronen@gmail.com or [LinkedIn](https://github.com/savizronen)  
   
