@@ -4,7 +4,9 @@
   
 
 - 👀 I’m interested in software development programming on C#, Java, Python, JavaScript and C  
-
+- 
+-💻 I believe that collaboration and communication are key 🔑 to building great software
+ 
 - 💡 I enjoy brainstorming new ideas and turning them into working software
 
 - 🎓 I’m a Computer Science B.Sc graduate
